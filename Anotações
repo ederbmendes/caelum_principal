@@ -1,0 +1,44 @@
+Curso Angular
+--- Dia 1
+- Coffee Script
+- TypeScript
+- React (Facebook) x Angular (Angular)
+	- TypeScript
+	- Componentes
+	- Organização obrigatória
+	- Focar em trabalhar pensando em dados
+	- Nativescript
+	- Ionic (Muito problema de versão)
+	- Apache Cordova - Materialize
+	- VTEX E-commerce
+	- ScriptCase
+	- yarn (npm do facebook)
+	- npx @angular/cli new cmail-front
+	- Kibana
+	- ChartJS
+	- Prime NG
+	- elastic.co
+	- cypress.io
+	- e2e
+	- Babeljs - roda compatibilidade do navegador
+	- Polyfill.io
+	- ctrl-c - para o servidore
+	- ctrl-p - pesquisa
+	- Change detection (monitora as alterações no controller e altera no página)
+	- Willian Bruno Moraes (livro de notes) Construindo aplicações com Nodes
+	- Evernote	
+	- https://kraken.io/
+	- tiny (panda)
+	- Directiva: 
+	- handle:padrão de nome para eventos
+	- is: é alguma coisa
+	- toggle: 
+	- has: 
+	- PreventDefault(): Previni
+	- Pixel pipeline
+	- Element Reference
+	- Material.angular.io (componentes angular)
+	- angular schematics (auxiliar na criação dos componentes)
+	- https://zeit.co/ (ferramenta de dev)
+	- https://www.jetbrains.com/ (ferramenta de dev)
+	- Reactive forms model
